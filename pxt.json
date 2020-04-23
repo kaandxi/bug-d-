@@ -1,0 +1,18 @@
+{
+    "name": "有BUG项目的 d ",
+    "dependencies": {
+        "device": "*",
+        "animation": "*",
+        "darts": "*"
+    },
+    "description": "",
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "preferredEditor": "blocksprj",
+    "testFiles": [
+        "test.ts"
+    ]
+}
